@@ -1,0 +1,9 @@
+KEYWORD1 shiniDCMotor
+KEYWORD2 begin
+KEYWORD2 forward
+KEYWORD2 reverse
+KEYWORD2 stop
+KEYWORD2 setDuty
+KEYWORD2 getDuty
+KEYWORD2 getState
+
